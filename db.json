@@ -1,0 +1,29 @@
+{
+    "domains": [
+        {
+            "ID": "1134",
+            "Name": "Software Solutions",
+            "Description": "Skilled in designing, developing, and implementing customized software solutions to improve business processes and enhance customer experiences."
+        },
+        {
+            "ID": "50111",
+            "Name": "Business Administration",
+            "Description": "Experienced in managing business operations and resources to achieve growth and profitability. Knowledgeable about organizational structures, financial management, and human resources."
+        },
+        {
+            "ID": "43843",
+            "Name": "Global Mobility",
+            "Description": "Skilled in managing the relocation of employees between countries, including visa and immigration requirements and cross-cultural training."
+        },
+        {
+            "ID": "50350",
+            "Name": "HR Analytics",
+            "Description": "Knowledgeable in utilizing data analysis and advanced HR analytics to inform and optimize HR strategies and initiatives."
+        },
+        {
+            "ID": "56422",
+            "Name": "Financial Software",
+            "Description": "Skilled in developing, implementing, and using software applications for financial analysis, accounting, and reporting."
+        }
+    ]
+}
